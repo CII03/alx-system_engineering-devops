@@ -1,1 +1,1 @@
-Creating alias
+Writing scripts
